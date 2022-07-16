@@ -10,7 +10,7 @@ The admin of the system is responsible for adding games to be rented out by clie
 
 The System includes the following functionalities:
 
--Siging Up a new User (eg.admin,clien)
+-Siging Up a new User (eg.admin,client)
 
 -Updating a user details.
 
