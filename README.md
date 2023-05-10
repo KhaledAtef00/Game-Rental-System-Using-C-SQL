@@ -23,3 +23,8 @@ The System includes the following functionalities:
 -Showing a list of games that satifsy certain criteria (e.g year,vendor,cateogry,..)
 
 -Performing Operations on games: renting , returning 
+
+
+![Screenshot 2023-05-11 002724](https://github.com/KhaledAtef00/Game-Rental-System-Using-C-Sharp-SQL/assets/105244576/dc7e95b6-a6e3-47b2-b40d-27c28cf28db7)
+
+
