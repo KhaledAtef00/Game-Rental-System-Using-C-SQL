@@ -27,4 +27,6 @@ The System includes the following functionalities:
 
 ![Screenshot 2023-05-11 002724](https://github.com/KhaledAtef00/Game-Rental-System-Using-C-Sharp-SQL/assets/105244576/dc7e95b6-a6e3-47b2-b40d-27c28cf28db7)
 
+![Screenshot 2023-05-11 003104](https://github.com/KhaledAtef00/Game-Rental-System-Using-C-Sharp-SQL/assets/105244576/7c9af3ae-e276-44f2-a291-ee70c3f06498)
+![Screenshot 2023-05-11 003435](https://github.com/KhaledAtef00/Game-Rental-System-Using-C-Sharp-SQL/assets/105244576/4182bdc0-6abf-4176-81ea-03e09578846c)
 
